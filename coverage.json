@@ -1,0 +1,42 @@
+{
+  "coverage": "100%",
+  "expectCount": 101,
+  "actualCount": 101,
+  "files": {
+    "src/Line.js": {
+      "expectCount": 5,
+      "actualCount": 5,
+      "undocumentLines": []
+    },
+    "src/Point.js": {
+      "expectCount": 4,
+      "actualCount": 4,
+      "undocumentLines": []
+    },
+    "src/bitmap.js": {
+      "expectCount": 11,
+      "actualCount": 11,
+      "undocumentLines": []
+    },
+    "src/context.js": {
+      "expectCount": 72,
+      "actualCount": 72,
+      "undocumentLines": []
+    },
+    "src/named_colors.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/text.js": {
+      "expectCount": 7,
+      "actualCount": 7,
+      "undocumentLines": []
+    },
+    "src/transform.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    }
+  }
+}
